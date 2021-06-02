@@ -57,6 +57,9 @@ La suma algebraica de las diferencias de potencial a lo largo de cualquier camin
 ![image](https://user-images.githubusercontent.com/85178869/120421597-37f96280-c32c-11eb-9589-a64187cf2af2.png)
 
 # 3.	EXPLICACIÓN DEL PROCEDIMIENTO 
+
+En este punto se debe explicar cómo funcionan la implementación del circuito y los cálculos de respaldo.
+
 MATERIALES Y EQUIPO REQUERIDO 
 •	 1 Fuente de Voltaje de C.D
 
@@ -93,6 +96,18 @@ Instalamos el fuente de voltaje
  b.- Corrientes en cada uno de sus elementos
 
 ![image](https://user-images.githubusercontent.com/85178869/120425347-9e35b380-c333-11eb-8c1c-413828152e69.png)
+
+
+![image](https://user-images.githubusercontent.com/85178869/120427144-ffab5180-c336-11eb-87ed-4b4ab5273d7d.png)
+
+# 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.1.
+
+Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+
+
+
 
 
 
