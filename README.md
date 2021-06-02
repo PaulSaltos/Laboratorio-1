@@ -40,8 +40,16 @@ Estas leyes son muy utilizadas en ingeniería eléctrica para hallar corrientes 
 
 Esta ley también es llamada ley de nodos o primera ley de Kirchhoff y es común que se use la sigla LCK para referirse a esta ley. 
 
-La ley de corrientes de Kirchhoff nos dice que: En cualquier nodo, la suma de las corrientes que entran en ese nodo es igual a la suma de las corrientes que salen. De forma equivalente, la suma de todas las corrientes que pasan por el nodo es igual a cero
+La ley de corrientes de Kirchhoff 
+
+En cualquier nodo, la suma de las corrientes que entran en ese nodo es igual a la suma de las corrientes que salen. De forma equivalente, la suma de todas las corrientes que pasan por el nodo es igual a cero
  
 ![image](https://user-images.githubusercontent.com/85178869/120420294-baccee00-c329-11eb-8336-90284ad47b04.png)
+
+![image](https://user-images.githubusercontent.com/85178869/120421013-219ed700-c32b-11eb-9095-ca8f0b5968dd.png)
+
+ Ley de voltajes de Kirchhoff
+ 
+La suma algebraica de las diferencias de potencial a lo largo de cualquier camino cerrado del circuito es cero 
 
 
