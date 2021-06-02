@@ -95,10 +95,7 @@ Instalamos el fuente de voltaje
  
  b.- Corrientes en cada uno de sus elementos
 
-![image](https://user-images.githubusercontent.com/85178869/120425347-9e35b380-c333-11eb-8c1c-413828152e69.png)
-
-
-![image](https://user-images.githubusercontent.com/85178869/120427144-ffab5180-c336-11eb-87ed-4b4ab5273d7d.png)
+![image](https://user-images.githubusercontent.com/85178869/120514653-24cdad80-c393-11eb-9ded-0e58ae2bbd8b.png)
 
 # 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
