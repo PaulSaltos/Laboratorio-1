@@ -40,7 +40,7 @@ Estas leyes son muy utilizadas en ingeniería eléctrica para hallar corrientes 
 
 Esta ley también es llamada ley de nodos o primera ley de Kirchhoff y es común que se use la sigla LCK para referirse a esta ley. 
 
-La ley de corrientes de Kirchhoff 
+La ley de Corrientes de Kirchhoff 
 
 En cualquier nodo, la suma de las corrientes que entran en ese nodo es igual a la suma de las corrientes que salen. De forma equivalente, la suma de todas las corrientes que pasan por el nodo es igual a cero
  
@@ -48,8 +48,50 @@ En cualquier nodo, la suma de las corrientes que entran en ese nodo es igual a l
 
 ![image](https://user-images.githubusercontent.com/85178869/120421013-219ed700-c32b-11eb-9095-ca8f0b5968dd.png)
 
- Ley de voltajes de Kirchhoff
+ Ley de Tensiones  de Kirchhoff
  
 La suma algebraica de las diferencias de potencial a lo largo de cualquier camino cerrado del circuito es cero 
+
+![image](https://user-images.githubusercontent.com/85178869/120421568-2adc7380-c32c-11eb-8cd6-52b2a811f3b7.png)
+
+![image](https://user-images.githubusercontent.com/85178869/120421597-37f96280-c32c-11eb-9589-a64187cf2af2.png)
+
+# 3.	EXPLICACIÓN DEL PROCEDIMIENTO 
+MATERIALES Y EQUIPO REQUERIDO 
+•	 1 Fuente de Voltaje de C.D
+
+•	2 Multímetros Digitales 
+
+•	1 Resistor de 1 kΩ
+
+•	2 Resistores de 2.2 kΩ
+
+•	1 Resistor de 1.8 kΩ
+
+•	1 Resistor de 3.9 kΩ
+
+•	1 Protoboard
+
+•	El simulador  
+
+PROCEDIMIENTO    
+
+Utilizamos el simulador para hacer el circuito electrico 
+
+Utilizamos un protoboard 
+
+Construir en el protoboard cada uno de los circuitos
+
+Colocamos los resistores en el protoboard en cada uno de los pines del protoboard 
+
+Instalamos el fuente de voltaje 
+
+ Efectuar y registrar las siguientes mediciones con el Multimetro digital 
+ 
+ a.- Caída de tensión (voltaje) en cada uno de sus elementos 
+ 
+ b.- Corrientes en cada uno de sus elementos
+
+
 
 
