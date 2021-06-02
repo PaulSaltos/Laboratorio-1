@@ -115,8 +115,30 @@ Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del cir
 Tabla 1.2  Verificacion  lVk
 
 
+![image](https://user-images.githubusercontent.com/85178869/120467674-07361f00-c366-11eb-924a-a27f688c3812.png)
+
+Tabla 1.3 Verificacion  lCk
+
+![image](https://user-images.githubusercontent.com/85178869/120467444-d1913600-c365-11eb-9aa8-7caef1fa7ce9.png)
 
 
+# 5. VIDEO
 
+https://youtu.be/jRv9UJUC1l8
 
+# 6. Concluciones 
+
+•	Hemos encontrado de forma teórica los valores de la corriente y del voltaje que fluye por cada una de las resistencias del circuito, para lo cual utilizamos las reglas de Kirchhoff. 
+
+•	Confirmamos las leyes de Kirchhoff al observar los valores obtenidos tanto de forma teórica como de forma experimental, observando que la diferencia entre estas es mínima, por lo tanto podríamos concluir en que las leyes de Kirchhoff se cumplen. 
+
+# 7.Bibliografia Web
+
+https://es.wikipedia.org/wiki/Leyes_de_Kirchhoff
+
+http://www.sc.ehu.es/sbweb/electronica/elec_basica/tema1/Paginas/Pagina1.htm
+
+https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+
+https://www.youtube.com/watch?v=Szj_ZFwIWd0&ab_channel=alexanderitcalexanderitc
 
