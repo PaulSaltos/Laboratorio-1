@@ -106,6 +106,14 @@ Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los
 
 Tabla 1.1. Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
+![image](https://user-images.githubusercontent.com/85178869/120465809-fbe1f400-c363-11eb-9de3-faedac9e657d.png)
+
+![image](https://user-images.githubusercontent.com/85178869/120466007-3481cd80-c364-11eb-8351-988fbaf25ba9.png)
+
+![image](https://user-images.githubusercontent.com/85178869/120466279-7dd21d00-c364-11eb-838f-7bf234f5da00.png)
+
+Tabla 1.2  Verificacion  lVk
+
 
 
 
