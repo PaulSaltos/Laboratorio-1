@@ -92,6 +92,8 @@ Instalamos el fuente de voltaje
  
  b.- Corrientes en cada uno de sus elementos
 
+![image](https://user-images.githubusercontent.com/85178869/120425347-9e35b380-c333-11eb-8c1c-413828152e69.png)
+
 
 
 
